@@ -1,4 +1,4 @@
-# car-detection-darknet-yolo4
+# car-detection-yolo4
 car-detection
 
 ## weights https://drive.google.com/file/d/1J_PpVrY0wtyn7rv3YLMTSk3tbvbkqkFr/view?usp=sharing
